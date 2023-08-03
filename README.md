@@ -7,13 +7,7 @@
 https://github.com/orgs/PHP-506-airplane/repositories
 <br>
 <br>
-3차 프로젝트 ppt
-<br>
-<br>
 <a href="https://www.canva.com/design/DAFpsj82YXU/Hc7XI8i9ZYnJeciYjWgoEw/edit">3차 프로젝트 PPT</a>
-<br>
-<br>
-2차 프로젝트 ppt 
 <br>
 <br>
 <a href="https://www.canva.com/design/DAFpsj82YXU/Hc7XI8i9ZYnJeciYjWgoEw/edit">3차 프로젝트 PPT</a>
