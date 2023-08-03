@@ -10,13 +10,13 @@ https://github.com/orgs/PHP-506-airplane/repositories
 3차 프로젝트 ppt
 <br>
 <br>
-<a href="https://www.canva.com/design/DAFpsj82YXU/Hc7XI8i9ZYnJeciYjWgoEw/edit">3차 프로젝트 PPT
+<a href="https://www.canva.com/design/DAFpsj82YXU/Hc7XI8i9ZYnJeciYjWgoEw/edit">3차 프로젝트 PPT</a>
 <br>
 <br>
 2차 프로젝트 ppt 
 <br>
 <br>
-<a href="https://www.canva.com/design/DAFpsj82YXU/Hc7XI8i9ZYnJeciYjWgoEw/edit">3차 프로젝트 PPT
+<a href="https://www.canva.com/design/DAFpsj82YXU/Hc7XI8i9ZYnJeciYjWgoEw/edit">3차 프로젝트 PPT</a>
 <br>
 <br>
 1차 프로젝트 - '불면증이 있는 사람을 위한 투두리스트'
