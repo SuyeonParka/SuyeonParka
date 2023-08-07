@@ -4,7 +4,7 @@
 2,3차 프로젝트 깃허브 주소, ppt
 <br>
 <br>
-https://github.com/orgs/PHP-506-airplane/repositories
+https://github.com/PHP-506-airplane/PHP-506-airplane
 <br>
 <br>
 <br>
@@ -15,6 +15,6 @@ https://github.com/orgs/PHP-506-airplane/repositories
 1차 프로젝트 깃허브 주소, ppt
 <br>
 <br>
-https://github.com/orgs/PHP-506-7/repositories
+https://github.com/PHP-506-7/PHP_1STPJ
 <br>
 <br>
